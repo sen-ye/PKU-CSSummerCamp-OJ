@@ -1,8 +1,41 @@
-[toc]
+- [ 水题](#head1)
+	- [ 寻找特殊年号(2023智能学院研究生上机测试)](#head2)
+	- [Beautiful Year (Codeforces 271A)](#head3)
+	- [ 数与字符串(2019计算机学科夏令营上机考试)](#head4)
+	- [ 简单密码(2018研究生推免上机考试)](#head5)
+	- [ 有趣的跳跃(2019研究生推免上机考试)](#head6)
+	- [ 区间内的真素数(2018研究生推免上机考试)](#head7)
+	- [ 因子分解(2017研究生推免上机考试)](#head8)
+- [ DFS](#head9)
+	- [ 括号生成(2023智能学院研究生上机测试)](#head10)
+	- [ 岛屿周长(2017计算机学科夏令营上机考试)](#head11)
+	- [ 马走日(2019信科研究生上机测试)](#head12)
+	- [The Die Is Cast(2018计算机学科夏令营上机考试)](#head13)
+- [ BFS](#head14)
+	- [ 玩具摆放(2023智能学院研究生上机测试)](#head15)
+	- [ 走迷宫(2019研究生推免上机考试)](#head16)
+	- [ 拯救公主(2018研究生推免上机考试)](#head17)
+	- [Prime Path(2017研究生推免上机考试)](#head18)
+	- [ 抓住那头牛(2014研究生上机测试)](#head19)
+- [ 并查集](#head20)
+	- [The Suspects(2019信科研究生上机测试)](#head21)
+	- [Wireless Network(2019研究生推免上机考试)](#head22)
+	- [A Bug's Life(2018研究生推免上机考试)](#head23)
+- [ 最短路](#head24)
+	- [ 最短路(2023智能学院研究生上机测试)](#head25)
+	- [Stockbroker Grapevine(2019信科研究生上机测试)](#head26)
+	- [ Subway(2017计算机学科夏令营上机考试)](#head27)
+- [ 最小生成树](#head28)
+	- [ 丛林中的路(2016计算机学科夏令营上机考试)](#head29)
+- [ 动态规划](#head30)
+	- [ 酒鬼(2023智能学院研究生上机测试)](#head31)
+	- [Jumping Cows(2019信科研究生上机测试)](#head32)
+	- [ 开餐馆(2017大数据研究中心夏令营上机考试)](#head33)
+- [ 数学](#head34)
+	- [ 有多少种二叉树(2023智能学院研究生上机测试)](#head35)
+# <span id="head1"> 水题</span>
 
-# 水题
-
-## 寻找特殊年号(2023智能学院研究生上机测试)
+## <span id="head2"> 寻找特殊年号(2023智能学院研究生上机测试)</span>
 
 [OpenJudge - A:寻找特殊年号](http://bailian.openjudge.cn/ss2023zn/A/)
 
@@ -31,7 +64,7 @@ int main()
 }
 ```
 
-## Beautiful Year (Codeforces 271A)
+## <span id="head3">Beautiful Year (Codeforces 271A)</span>
 
 [Problem - 271A - Codeforces](https://codeforces.com/problemset/problem/271/A)与上一题很相似
 
@@ -60,7 +93,7 @@ int main()
 }
 ```
 
-## 数与字符串(2019计算机学科夏令营上机考试)
+## <span id="head4"> 数与字符串(2019计算机学科夏令营上机考试)</span>
 
 [OpenJudge - A:数与字符串](http://bailian.openjudge.cn/xly2019/A/)
 
@@ -97,7 +130,7 @@ int main()
 }
 ```
 
-## 简单密码(2018研究生推免上机考试)
+## <span id="head5"> 简单密码(2018研究生推免上机考试)</span>
 
 [OpenJudge - 2767:简单密码](http://bailian.openjudge.cn/practice/2767?lang=en_US)
 
@@ -123,7 +156,7 @@ int main()
 }
 ```
 
-## 有趣的跳跃(2019研究生推免上机考试)
+## <span id="head6"> 有趣的跳跃(2019研究生推免上机考试)</span>
 
 [OpenJudge - A:有趣的跳跃](http://bailian.openjudge.cn/tm2019/A/)
 
@@ -167,7 +200,7 @@ int main()
 }
 ```
 
-## 区间内的真素数(2018研究生推免上机考试)
+## <span id="head7"> 区间内的真素数(2018研究生推免上机考试)</span>
 
 [OpenJudge - 23:区间内的真素数](http://noi.openjudge.cn/CH0113/23?lang=en_US)
 
@@ -228,7 +261,7 @@ int main()
 }
 ```
 
-## 因子分解(2017研究生推免上机考试)
+## <span id="head8"> 因子分解(2017研究生推免上机考试)</span>
 
 [OpenJudge - 22:因子分解](http://noi.openjudge.cn/CH0113/22?lang=en_US)
 
@@ -300,9 +333,9 @@ int main()
 
 
 
-# DFS
+# <span id="head9"> DFS</span>
 
-## 括号生成(2023智能学院研究生上机测试)
+## <span id="head10"> 括号生成(2023智能学院研究生上机测试)</span>
 
 [OpenJudge - C:括号生成](http://bailian.openjudge.cn/ss2023jsj/C/)
 [22. 括号生成 - 力扣（LeetCode）](https://leetcode.cn/problems/generate-parentheses/)
@@ -334,7 +367,7 @@ int main()
 }
 ```
 
-## 岛屿周长(2017计算机学科夏令营上机考试)
+## <span id="head11"> 岛屿周长(2017计算机学科夏令营上机考试)</span>
 
 [OpenJudge - C:岛屿周长(matrix)](http://bailian.openjudge.cn/xly2017/C/)
 [463. 岛屿的周长 - 力扣（LeetCode）](https://leetcode.cn/problems/island-perimeter/)
@@ -386,7 +419,7 @@ int main()
 }
 ```
 
-## 马走日(2019信科研究生上机测试)
+## <span id="head12"> 马走日(2019信科研究生上机测试)</span>
 
 [OpenJudge - 4123:马走日](http://bailian.openjudge.cn/practice/4123/)
 
@@ -436,7 +469,7 @@ int main()
 }
 ```
 
-## The Die Is Cast(2018计算机学科夏令营上机考试)
+## <span id="head13">The Die Is Cast(2018计算机学科夏令营上机考试)</span>
 
 [OpenJudge - 1481:The Die Is Cast](http://bailian.openjudge.cn/practice/1481/)
 
@@ -518,9 +551,9 @@ int main()
 }
 ```
 
-# BFS
+# <span id="head14"> BFS</span>
 
-## 玩具摆放(2023智能学院研究生上机测试)
+## <span id="head15"> 玩具摆放(2023智能学院研究生上机测试)</span>
 
 [OpenJudge - G:玩具摆放](http://bailian.openjudge.cn/ss2023jsj/G/)
 [P4289 [HAOI2008\]移动玩具 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)](https://www.luogu.com.cn/problem/P4289) （同一题）
@@ -609,7 +642,7 @@ int main()
 }
 ```
 
-## 走迷宫(2019研究生推免上机考试)
+## <span id="head16"> 走迷宫(2019研究生推免上机考试)</span>
 
 [OpenJudge - 3752:走迷宫](http://bailian.openjudge.cn/practice/3752?lang=en_US)
 
@@ -668,7 +701,7 @@ int main()
 }
 ```
 
-## 拯救公主(2018研究生推免上机考试)
+## <span id="head17"> 拯救公主(2018研究生推免上机考试)</span>
 
 [OpenJudge - C:拯救公主](http://bailian.openjudge.cn/tm2018/C/)
 
@@ -747,7 +780,7 @@ int main()
 }
 ```
 
-## Prime Path(2017研究生推免上机考试)
+## <span id="head18">Prime Path(2017研究生推免上机考试)</span>
 
 [OpenJudge - F:Prime Path](http://bailian.openjudge.cn/tm2017/F/)
 
@@ -828,7 +861,7 @@ int main()
 }
 ```
 
-## 抓住那头牛(2014研究生上机测试)
+## <span id="head19"> 抓住那头牛(2014研究生上机测试)</span>
 
 [OpenJudge - 4001:抓住那头牛](http://bailian.openjudge.cn/practice/4001/)
 
@@ -882,9 +915,9 @@ int main()
 }
 ```
 
-# 并查集
+# <span id="head20"> 并查集</span>
 
-## The Suspects(2019信科研究生上机测试)
+## <span id="head21">The Suspects(2019信科研究生上机测试)</span>
 
 [OpenJudge - 1611:The Suspects](http://bailian.openjudge.cn/practice/1611/)
 
@@ -938,7 +971,7 @@ int main()
 }
 ```
 
-## Wireless Network(2019研究生推免上机考试)
+## <span id="head22">Wireless Network(2019研究生推免上机考试)</span>
 
 [OpenJudge - 2236:Wireless Network](http://bailian.openjudge.cn/practice/2236/)
 
@@ -1007,7 +1040,7 @@ int main()
 }
 ```
 
-## A Bug's Life(2018研究生推免上机考试)
+## <span id="head23">A Bug's Life(2018研究生推免上机考试)</span>
 
 [OpenJudge - 2492:A Bug's Life](http://bailian.openjudge.cn/practice/2492/)s
 
@@ -1067,9 +1100,9 @@ int main()
 }
 ```
 
-# 最短路
+# <span id="head24"> 最短路</span>
 
-## 最短路(2023智能学院研究生上机测试)
+## <span id="head25"> 最短路(2023智能学院研究生上机测试)</span>
 
 [OpenJudge - F:最短路](http://bailian.openjudge.cn/ss2023zn/F/)
 
@@ -1133,7 +1166,7 @@ int main()
 }
 ```
 
-## Stockbroker Grapevine(2019信科研究生上机测试)
+## <span id="head26">Stockbroker Grapevine(2019信科研究生上机测试)</span>
 
 [OpenJudge - 1125:Stockbroker Grapevine](http://bailian.openjudge.cn/practice/1125/)
 
@@ -1199,43 +1232,188 @@ int main()
 }
 ```
 
-## Subway(2017计算机学科夏令营上机考试)
+## <span id="head27"> Subway(2017计算机学科夏令营上机考试)</span>
 
 [OpenJudge - 2502:Subway](http://bailian.openjudge.cn/practice/2502/)
 
+```c++
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <queue>
+#include <map>
+#include <cstring>
+#include <sstream>
+#include <cmath>
 
+using namespace std;
 
+const int INF = 0X3f3f3f3f;
 
+double dis(int ax, int ay, int bx, int by)
+{
+    double diffx = ax - bx, diffy = ay - by;
+    return sqrt(diffx*diffx + diffy*diffy);
+}
+int sx, sy, ex, ey, xx, yy, n, j;
+double graph[405][405];
+int x[405], y[405];
+void floyd()
+{
+    for (int k = 1; k < n; ++k)
+        for (int i = 1; i < n; ++i)
+            for (int m = 1; m < n; ++m)
+                if (graph[i][m] > graph[i][k] + graph[k][m])
+                    graph[i][m] = graph[i][k] + graph[k][m];
+    cout << round(graph[1][2]);
+}
+int main()
+{
+    scanf("%d%d%d%d", &sx, &sy, &ex, &ey);
+    n = 3, j = 0;
+    x[1] = sx, x[2] = ex, y[1] = sy, y[2] = ey;
+    graph[1][2] = graph[2][1] = dis(sx, sy, ex, ey) / 10000.0 * 60.0;
+    while (~scanf("%d%d", &xx, &yy))
+    {
+        if (xx == -1) j = 0;
+        else
+        {
+            x[n] = xx, y[n] = yy;
+            for (int i = 1; i <= n -1; ++i) graph[i][n] = graph[n][i] = dis(x[i], y[i], x[n], y[n]) / 1000.0 * 6.0;
+            for (int i = n - 1; i >= n - j; --i) graph[i][n] = graph[n][i] = dis(x[i], y[i], x[n], y[n]) / 4000.0 * 6.0;
+            ++n, j = 1;
+        }
+    }
+    floyd();
+    return 0;
+}
+```
 
+# <span id="head28"> 最小生成树</span>
 
-
-
-
-
-
-# 最小生成树
-
-## 丛林中的路(2016计算机学科夏令营上机考试)
+## <span id="head29"> 丛林中的路(2016计算机学科夏令营上机考试)</span>
 
 [OpenJudge - 1251:丛林中的路](http://bailian.openjudge.cn/practice/1251/)
 
+```c++
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <queue>
+#include <map>
+#include <cstring>
+#include <sstream>
+#include <cmath>
+
+using namespace std;
+
+int n, a, b, m, dis, cnt;
+int fa[30];
+char c1, c2;
+struct Edge
+{
+    int u, v, w;
+}edge[100];
+void init()
+{
+    cnt = 0;
+    for (int i = 0; i < 30; ++i) fa[i] = i;
+}
+int find(int x)
+{
+    return fa[x] == x ? fa[x] : (fa[x] = find(fa[x]));
+}
+bool cmp(Edge a, Edge b){return a.w < b.w;}
+int solve()
+{
+    int ans = 0;
+    sort(edge, edge + cnt, cmp);
+    for (int i = 0; i < cnt; ++i)
+    {
+        int u = find(edge[i].u), v = find(edge[i].v);
+        if (u == v) continue;
+        fa[u] = v;
+        ans += edge[i].w;
+    }
+    return ans;
+}
+int main()
+{
+    while (cin >> n && n)
+    {
+        init();
+        for (int i = 0; i < n - 1; ++i)
+        {
+            cin >> c1 >> m;
+            a = c1 - 'A';
+            for (int j = 0; j < m; ++j)
+            {
+                cin >> c2 >> dis;
+                b = c2 - 'A';
+                edge[cnt] = {a, b, dis};
+                cnt++;
+            }
+        }
+        cout << solve() << endl;
+    }
+    return 0;
+}
+```
+
+# <span id="head30"> 动态规划</span>
+
+## <span id="head31"> 酒鬼(2023智能学院研究生上机测试)</span>
+
+[OpenJudge - E:酒鬼](http://bailian.openjudge.cn/ss2023zn/E/)
 
 
 
 
 
+## <span id="head32">Jumping Cows(2019信科研究生上机测试)</span>
+
+[OpenJudge - D:Jumping Cows](http://bailian.openjudge.cn/ss2019/D/)
 
 
 
 
 
-# 动态规划
+## <span id="head33"> 开餐馆(2017大数据研究中心夏令营上机考试)</span>
+
+[OpenJudge - E:开餐馆](http://bailian.openjudge.cn/dsj2017xly/E/)
 
 
 
 
 
+# <span id="head34"> 数学</span>
+
+## <span id="head35"> 有多少种二叉树(2023智能学院研究生上机测试)</span>
+
+[OpenJudge - D:有多少种二叉树](http://bailian.openjudge.cn/ss2023zn/D/)
+[「算法入门笔记」卡特兰数 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/97619085)
+
+```c++
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <queue>
+#include <map>
+#include <cstring>
+#include <sstream>
+#include <cmath>
+
+using namespace std;
 
 
-
-
+int main()
+{
+    int n;
+    long long ans = 1;
+    cin >> n;
+    for (int i = 2; i <= n; ++i)
+        ans = ans * (4 * i - 2) / (i + 1);
+    cout << ans;
+    return 0;
+}
+```
