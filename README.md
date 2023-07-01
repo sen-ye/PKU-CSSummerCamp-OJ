@@ -21,24 +21,27 @@
 	- [The Suspects(2019信科研究生上机测试)](#head21)
 	- [Wireless Network(2019研究生推免上机考试)](#head22)
 	- [A Bug's Life(2018研究生推免上机考试)](#head23)
-- [ 最短路](#head24)
-	- [ 最短路(2023智能学院研究生上机测试)](#head25)
-	- [Stockbroker Grapevine(2019信科研究生上机测试)](#head26)
-	- [ Subway(2017计算机学科夏令营上机考试)](#head27)
-- [ 最小生成树](#head28)
-	- [ 丛林中的路(2016计算机学科夏令营上机考试)](#head29)
-- [ 动态规划](#head30)
-	- [ 酒鬼(2023智能学院研究生上机测试)](#head31)
-	- [ 上楼梯(2019计算机学科夏令营上机考试)](#head32)
-	- [Jumping Cows(2019信科研究生上机测试)](#head33)
-	- [ 开餐馆(2017大数据研究中心夏令营上机考试)](#head34)
-	- [ 怪盗基德的滑翔翼(2017计算机学科夏令营上机考试)](#head35)
-	- [ 最大上升子序列和(2019研究生推免上机考试)](#head36)
-	- [ 奶牛散步](#head37)
-	- [ Divisibility](#head38)
-	- [ 计算字符串距离](#head39)
-- [ 数学](#head40)
-	- [ 有多少种二叉树(2023智能学院研究生上机测试)](#head41)
+	- [ 食物链(2018计算机学科夏令营上机考试)](#head24)
+- [ 最短路](#head25)
+	- [ 最短路(2023智能学院研究生上机测试)](#head26)
+	- [Stockbroker Grapevine(2019信科研究生上机测试)](#head27)
+	- [ Subway(2017计算机学科夏令营上机考试)](#head28)
+- [ 最小生成树](#head29)
+	- [ 丛林中的路(2016计算机学科夏令营上机考试)](#head30)
+- [ 动态规划](#head31)
+	- [ 酒鬼(2023智能学院研究生上机测试)](#head32)
+	- [ 上楼梯(2019计算机学科夏令营上机考试)](#head33)
+	- [Jumping Cows(2019信科研究生上机测试)](#head34)
+	- [ 开餐馆(2017大数据研究中心夏令营上机考试)](#head35)
+	- [ 怪盗基德的滑翔翼(2017计算机学科夏令营上机考试)](#head36)
+	- [ 最大上升子序列和(2019研究生推免上机考试)](#head37)
+	- [Euro Efficiency(2018计算机学科夏令营上机考试)](#head38)
+	- [ 奶牛散步](#head39)
+	- [ Divisibility](#head40)
+	- [ 计算字符串距离](#head41)
+- [ 数学](#head42)
+	- [ 有多少种二叉树(2023智能学院研究生上机测试)](#head43)
+
 # <span id="head1"> 水题</span>
 
 ## <span id="head2"> 寻找特殊年号(2023智能学院研究生上机测试)</span>
@@ -1143,9 +1146,15 @@ int main()
 }
 ```
 
-# <span id="head24"> 最短路</span>
+## <span id="head24"> 食物链(2018计算机学科夏令营上机考试)</span>
 
-## <span id="head25"> 最短路(2023智能学院研究生上机测试)</span>
+[OpenJudge - 1182:食物链](http://bailian.openjudge.cn/practice/1182/)
+
+
+
+# <span id="head25"> 最短路</span>
+
+## <span id="head26"> 最短路(2023智能学院研究生上机测试)</span>
 
 [OpenJudge - F:最短路](http://bailian.openjudge.cn/ss2023zn/F/)
 
@@ -1209,7 +1218,7 @@ int main()
 }
 ```
 
-## <span id="head26">Stockbroker Grapevine(2019信科研究生上机测试)</span>
+## <span id="head27">Stockbroker Grapevine(2019信科研究生上机测试)</span>
 
 [OpenJudge - 1125:Stockbroker Grapevine](http://bailian.openjudge.cn/practice/1125/)
 
@@ -1275,7 +1284,7 @@ int main()
 }
 ```
 
-## <span id="head27"> Subway(2017计算机学科夏令营上机考试)</span>
+## <span id="head28"> Subway(2017计算机学科夏令营上机考试)</span>
 
 [OpenJudge - 2502:Subway](http://bailian.openjudge.cn/practice/2502/)
 
@@ -1332,9 +1341,9 @@ int main()
 }
 ```
 
-# <span id="head28"> 最小生成树</span>
+# <span id="head29"> 最小生成树</span>
 
-## <span id="head29"> 丛林中的路(2016计算机学科夏令营上机考试)</span>
+## <span id="head30"> 丛林中的路(2016计算机学科夏令营上机考试)</span>
 
 [OpenJudge - 1251:丛林中的路](http://bailian.openjudge.cn/practice/1251/)
 
@@ -1403,11 +1412,11 @@ int main()
 }
 ```
 
-# <span id="head30"> 动态规划</span>
+# <span id="head31"> 动态规划</span>
 
 [OpenJudge - OpenJudge - 题目](http://noi.openjudge.cn/ch0206/)
 
-## <span id="head31"> 酒鬼(2023智能学院研究生上机测试)</span>
+## <span id="head32"> 酒鬼(2023智能学院研究生上机测试)</span>
 
 [OpenJudge - E:酒鬼](http://bailian.openjudge.cn/ss2023zn/E/)
 
@@ -1443,7 +1452,7 @@ int main()
 }
 ```
 
-## <span id="head32"> 上楼梯(2019计算机学科夏令营上机考试)</span>
+## <span id="head33"> 上楼梯(2019计算机学科夏令营上机考试)</span>
 
 [OpenJudge - D:上楼梯](http://bailian.openjudge.cn/xly2019/D/)
 
@@ -1484,7 +1493,7 @@ int main()
 }
 ```
 
-## <span id="head33">Jumping Cows(2019信科研究生上机测试)</span>
+## <span id="head34">Jumping Cows(2019信科研究生上机测试)</span>
 
 [OpenJudge - D:Jumping Cows](http://bailian.openjudge.cn/ss2019/D/)
 
@@ -1524,7 +1533,7 @@ int main()
 
 
 
-## <span id="head34"> 开餐馆(2017大数据研究中心夏令营上机考试)</span>
+## <span id="head35"> 开餐馆(2017大数据研究中心夏令营上机考试)</span>
 
 [OpenJudge - E:开餐馆](http://bailian.openjudge.cn/dsj2017xly/E/)
 
@@ -1570,7 +1579,7 @@ int main()
 }
 ```
 
-## <span id="head35"> 怪盗基德的滑翔翼(2017计算机学科夏令营上机考试)</span>
+## <span id="head36"> 怪盗基德的滑翔翼(2017计算机学科夏令营上机考试)</span>
 
 [OpenJudge - 4977:怪盗基德的滑翔翼](http://noi.openjudge.cn/ch0206/4977/)
 
@@ -1628,7 +1637,7 @@ int main()
 }
 ```
 
-## <span id="head36"> 最大上升子序列和(2019研究生推免上机考试)</span>
+## <span id="head37"> 最大上升子序列和(2019研究生推免上机考试)</span>
 
 [OpenJudge - 3532:最大上升子序列和](https://link.zhihu.com/?target=http%3A//noi.openjudge.cn/ch0206/3532/)
 
@@ -1662,7 +1671,68 @@ int main()
 }
 ```
 
-## <span id="head37"> 奶牛散步</span>
+## <span id="head38">Euro Efficiency(2018计算机学科夏令营上机考试)</span>
+
+[OpenJudge - 1252:Euro Efficiency](http://bailian.openjudge.cn/practice/1252/)
+
+```c++
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <queue>
+#include <map>
+#include <cstring>
+#include <sstream>
+#include <cmath>
+#include <string>
+#include <iomanip>
+
+using namespace std;
+typedef long long ll;
+const int INF = 0X3f3f3f3f;
+
+typedef pair<int, int> PII;
+int T;
+int coins[10], dp[205];
+struct cmp
+{
+    bool operator()(PII a, PII b)
+    {
+        return a.second > b.second;
+    }
+};
+int main()
+{
+    cin >> T;
+    while (T--)
+    {
+        priority_queue<PII, vector<PII>, cmp> q;
+        memset(dp, INF, sizeof dp);
+        for (int i = 1; i <= 6; ++i) cin >> coins[i], dp[coins[i]] = 1, q.push(make_pair(coins[i], 1));
+        while (!q.empty())
+        {
+            PII t = q.top(); q.pop();
+            for (int i = 1; i <= 6; ++i)
+            {
+                int n1 = t.first + coins[i], n2 = t.first - coins[i];
+                if (n1 >= 1 && n1 <= 201 && dp[n1] == INF) {dp[n1] = t.second+1; q.push(make_pair(n1, dp[n1]));}
+                if (n2 >= 1 && n2 <= 201 && dp[n2] == INF) {dp[n2] = t.second+1; q.push(make_pair(n2, dp[n2]));}
+            }
+        }
+        int m = 0;
+        double ans = 0;
+        for (int i = 1; i <= 100; ++i) ans += dp[i], m = max(m, dp[i]);
+        ans /= 100;
+        printf("%.2f ", ans);
+        printf("%d\n", m);
+    }
+    return 0;
+}
+```
+
+
+
+## <span id="head39"> 奶牛散步</span>
 
 [OpenJudge - 9271:奶牛散步](http://noi.openjudge.cn/ch0206/9271/)
 
@@ -1697,7 +1767,7 @@ int main()
 }
 ```
 
-## <span id="head38"> Divisibility</span>
+## <span id="head40"> Divisibility</span>
 
 [OpenJudge - 747:Divisibility](http://noi.openjudge.cn/ch0206/747/)
 
@@ -1742,7 +1812,7 @@ int main()
 }
 ```
 
-## <span id="head39"> 计算字符串距离</span>
+## <span id="head41"> 计算字符串距离</span>
 
 [OpenJudge - 2988:计算字符串距离](http://noi.openjudge.cn/ch0206/2988/)
 
@@ -1792,9 +1862,9 @@ int main()
 
 
 
-# <span id="head40"> 数学</span>
+# <span id="head42"> 数学</span>
 
-## <span id="head41"> 有多少种二叉树(2023智能学院研究生上机测试)</span>
+## <span id="head43"> 有多少种二叉树(2023智能学院研究生上机测试)</span>
 
 [OpenJudge - D:有多少种二叉树](http://bailian.openjudge.cn/ss2023zn/D/)
 [「算法入门笔记」卡特兰数 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/97619085)
